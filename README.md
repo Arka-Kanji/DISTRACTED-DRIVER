@@ -1,20 +1,27 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# 🚗 Distracted Driver
 
-# Run and deploy your AI Studio app
+**Distracted Driver** is a multitasking arcade game that forces you to split your attention between speed-typing and survival. Experience the intense pressure and danger of texting behind the wheel—without the real-world consequences. 
 
-This contains everything you need to run your app locally.
+## ✨ Features
 
-View your app in AI Studio: https://ai.studio/apps/93a53428-361f-465f-b602-b3c2639020b9
+* 📱 **Dual-Focus Mechanics:** Accurately type out complete, continuous text messages while monitoring a high-speed, three-lane highway in real-time.
+* 🏎️ **Evasive Driving:** Weave between dynamically spawning traffic without interrupting your typing flow.
+* ⚠️ **Escalating Difficulty:** Features Easy, Medium, and Hard modes that increase the speed and density of oncoming vehicles to push your multitasking limits.
+* 🏆 **Speedrun Ready:** Built-in timer and local storage high-scores to challenge your friends to beat your best time.
+* 🎧 **Immersive Audio:** Features native Web Audio API soundscapes, including a persistent engine rumble, typing feedback, and crash sound effects.
 
-## Run Locally
+## 🎮 How to Play
 
-**Prerequisites:**  Node.js
+* **Type the Message:** Use your keyboard to type the required text message as fast as you can. Mistakes will lock your progress until you press `Backspace`.
+* **Dodge the Cars:** Use the `Up Arrow` and `Down Arrow` keys to switch lanes and avoid oncoming traffic. 
+* **Stay Alive:** You have 3 lives. Crashing into a car loses a life. Survive until the message is sent!
 
+## 🛠️ Built With
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+* HTML5 / CSS3
+* Vanilla JavaScript
+* Web Audio API (for zero-latency sound synthesis)
+* *[Optional: Add Gemini API if you ended up keeping the AI generation!]*
+
+## 🚀 Play Now
+[Play Distracted Driver Here](https://your-username.github.io/distracted-driver) *(Don't forget to update this link once your GitHub Pages site is live!)*
