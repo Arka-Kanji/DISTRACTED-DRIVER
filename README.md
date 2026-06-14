@@ -23,4 +23,4 @@
 * Web Audio API (for zero-latency sound synthesis)
 
 ## 🚀 Play Now
-[Play Distracted Driver Here]([https://arka-kanji.github.io/DISTRACTED-DRIVER/])
+[Play Distracted Driver Here](https://arka-kanji.github.io/DISTRACTED-DRIVER/)
