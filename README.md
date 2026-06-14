@@ -21,7 +21,6 @@
 * HTML5 / CSS3
 * Vanilla JavaScript
 * Web Audio API (for zero-latency sound synthesis)
-* *[Optional: Add Gemini API if you ended up keeping the AI generation!]*
 
 ## 🚀 Play Now
-[Play Distracted Driver Here](https://your-username.github.io/distracted-driver) *(Don't forget to update this link once your GitHub Pages site is live!)*
+[Play Distracted Driver Here]([https://your-username.github.io/distracted-driver](https://arka-kanji.github.io/DISTRACTED-DRIVER/))
