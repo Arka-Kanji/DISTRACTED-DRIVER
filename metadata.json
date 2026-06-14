@@ -1,6 +1,0 @@
-{
-  "name": "Don't Text and Drive",
-  "description": "A multitasking arcade game where players must rapidly type a text message while simultaneously dodging oncoming traffic to survive.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
